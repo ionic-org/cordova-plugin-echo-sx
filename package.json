@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-echo-sx",
+  "version": "0.0.1",
+  "description": "Cordova Echo Plugin",
+  "cordova": {
+    "id": "cordova-plugin-echo-sx",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-org/cordova-plugin-echo-sx.git"
+  },
+  "keywords": [
+    "cordova",
+    "echo",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "story5",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/ionic-org/cordova-plugin-echo-sx/issues"
+  },
+  "homepage": "https://github.com/ionic-org/cordova-plugin-echo-sx#readme"
+}
